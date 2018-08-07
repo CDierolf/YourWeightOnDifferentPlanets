@@ -1,2 +1,2 @@
 # Your Weight On....
-## A simple Android application written in Kotlin that will display the users Earth weight on various planets in the solar system. Including poor Pluto}
+## A simple Android application written in Kotlin that will display the users Earth weight on various planets in the solar system. Including poor Pluto.
