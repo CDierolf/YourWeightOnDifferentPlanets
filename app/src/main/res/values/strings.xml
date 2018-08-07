@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">YourWeightOn</string>
+    <string name="txtVHowMuch">How much do you weigh on...?</string>
+    <string name="weightLBS">lbs</string>
+    <string name="btnGo">Go!</string>
+    <string name="chkMercury_Text">Mercury</string>
+    <string name="chkVenus_Text">Venus</string>
+    <string name="chkMars_Text">Mars</string>
+    <string name="chkJupiter_Text">Jupiter</string>
+    <string name="chkSaturn_Text">Saturn</string>
+    <string name="chkUranus_Text">Uranus</string>
+    <string name="chkNeptune_Text">Neptune</string>
+    <string name="chkPluto_Text">Pluto</string>
+</resources>
